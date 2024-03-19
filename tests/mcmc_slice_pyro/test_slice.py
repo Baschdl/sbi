@@ -1,6 +1,7 @@
 # Copyright (c) 2017-2019 Uber Technologies, Inc.
 # SPDX-License-Identifier: Apache-2.0
 
+# pyright: reportOptionalMemberAccess=false
 import logging
 import os
 from collections import namedtuple

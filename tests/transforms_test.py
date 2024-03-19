@@ -1,3 +1,4 @@
+# pyright: reportOptionalMemberAccess=false
 import pytest
 import torch
 from torch import eye, ones, zeros
