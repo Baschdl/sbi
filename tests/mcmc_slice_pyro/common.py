@@ -1,6 +1,7 @@
 # Copyright (c) 2017-2019 Uber Technologies, Inc.
 # SPDX-License-Identifier: Apache-2.0
 
+# pyright: reportUnboundVariable=false
 import contextlib
 import numbers
 import os
